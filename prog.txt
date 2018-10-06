@@ -1,0 +1,3 @@
+si l1 >= 10 alors l1 := 5 ;
+Var l , l1 : entier ;
+ll := 1;
